@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-dyson-neon",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Dyson devices using libdyson-neon",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "dyson",
+    "air-purifier",
+    "fan",
+    "heater"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "homebridge": ">=1.6.0"
+  },
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}

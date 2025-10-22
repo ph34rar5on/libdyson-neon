@@ -1,0 +1,12 @@
+{
+  "accessories": [
+    {
+      "accessory": "DysonNeon",
+      "name": "Dyson Pure Hot+Cool",
+      "serial": "8HR-US-UCA1194A",
+      "credential": "mUi62la+PLB2YCZo44c7DLCTsonMlV8tOsJqRxPxh19W6G1dVzE9BCSQE+Jmp0ISwxH1Mu1k44TdvAuXAjSuaQ==",
+      "deviceType": "527M",
+      "host": "192.168.1.102"
+    }
+  ]
+}
